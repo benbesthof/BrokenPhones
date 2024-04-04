@@ -1,2 +1,2 @@
 # BrokenPhones
-Classifying images of phones as damaged. 
+Classifying images of phones as damaged or not. 
